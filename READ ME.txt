@@ -1,0 +1,6 @@
+
+Required packages:
+1) numpy (version = 1.19.3) use this version!
+2) random
+
+Python version = 3.9.0
